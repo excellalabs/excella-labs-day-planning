@@ -17,3 +17,14 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
  * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
 ## Accepted Topics
+
+* **Session Title**:  Attack-a the Akka: An Introduction to the Actor model and Akka .NET
+ * **Event Type**: Lecture
+ * **Summary**: A conceptual introduction of the actor model and a demonstration of how Akka.NET can assist developers in making use of it. NOTE: This may not be suited for this session, as it assumes knowledge of .NET and OOP.
+ * **Presenter Name(s)**: Sean Killeen 
+ * **Presenter E-mail(s)**: SeanKilleen@gmail.com
+ * **Presenter GitHub Account**: SeanKilleen 
+ * **Presenter Blog**: SeanKilleen.com
+ * **Audience Skill Level**: Intermediate / Advanced
+ * **Requirements**: A/V & Hookup for HDMI
+ * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
