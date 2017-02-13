@@ -49,3 +49,13 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
  * **Audience Skill Level**: [All Skill Levels]
  * **Requirements**: [A/V]
  * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
+
+* **Session Title**:  Angular 2 vs React vs Vue.js -- What should you learn?
+ * **Event Type**: 50-min Lecture
+ * **Summary**:  With so many tools and technologies in the forefront of modern web development, it's hard to know where to focus your time.  The three top contenders, according to many sources, are Angular 2, React, and Vue.  So which one should you spend your time on?  This talk will give you an overview of the setup cost, features, and development experience you can expect with each one, as well as giving a brief demo of each.  You will walk away with enough information to make an informed decision for yourself.
+ * **Presenter Name(s)**: Kevin Groat
+ * **Presenter E-mail(s)**: apps@kevingroat.io, kevin.groat@excella.com
+ * **Presenter GitHub Account**: https://github.com/kgroat
+ * **Audience Skill Level**: All Skill Levels
+ * **Requirements**: Projector
+ * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
