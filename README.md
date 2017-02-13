@@ -6,6 +6,7 @@
 * If accepted, we'll contact you to ensure you'll be available for that Meetup, and then the event will appear on the Meetup.com page.
 
 ## Upcoming Events
-Next event is April 1st, 2017 at Virginia Tech (location TBD).
+- Open Source Dev Conf April 1st, 2017 at TBD (Virginia Tech - Blacksburg, VA).
+- DC Full Stack Web Conf June, 2017 at ATX (Arlington, VA). 
 
 RSVP TBD.
