@@ -17,6 +17,17 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
  * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
 
 ## Accepted Topics
+* **Session Title**: Do More with Less JavaScript: Minimal MEAN
+ * **Event Type**: 50-min Lecture
+ * **Summary**: JavaScript moves at the light of speed. Moving that fast may burn you, hard! Focusing on minimal tooling, and fewer frameworks will allow you to become an expert by going deeper, rather than stretching yourself too thin while achieving better results. I'll talk about why Angular 2, npm and TypeScript are the right technologies to focus on in 2017.
+ * **Presenter Name(s)**: Doguhan Uluca
+ * **Presenter E-mail(s)**: duluca@gmail.com
+ * **Presenter GitHub Account**: https://github.com/duluca
+ * **Presenter Blog**: http://thejavascriptpromise.com
+ * **Audience Skill Level**: All Skill Levels
+ * **Requirements**: Projector
+ * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
+
 * **Session Title**: In Action: Contributing to Open Source Software 
  * **Event Type**: Lecture / Demo
  * **Summary**: I queue up some pull requests that I know I can tackle (.NET) and go through the process of submitting pull requests via Github. NOTE: This is experimental and a little risky. I would do prep work ahead of time and see if I can reserve some PRs for this purpose (coordinating with OSS authors, etc.) 
