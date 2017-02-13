@@ -31,10 +31,7 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 * **DevOps: Level Up Your Career**:  
  * **no preference**:  
  * **Event Type**: 50-min Lecture
- * **DevOps is a killer buzzword these days... So what is it, exactly?  Is this just putting developers in the on-call rotation? Is this making Ops people join our standups?  Is this just running scripts to provision machines on AWS?
-
-There is a real phenomenon here, and it's worth understanding.  Chances are, DevOps is going to affect your career whether you embrace it now, or get dragged along by the rising tide.  The truth is, DevOps has its roots in a paper going back to 1970, and has been fully enabled thanks to the convergence of agile software development, automation, and hardware virtualization.  There are many historical perspectives; this one is mine.  Let me inspire your upcoming career choices.**:
-
+ * **DevOps is a killer buzzword these days... So what is it, exactly?  Is this just putting developers in the on-call rotation? Is this making Ops people join our standups?  Is this just running scripts to provision machines on AWS? There is a real phenomenon here, and it's worth understanding.  Chances are, DevOps is going to affect your career whether you embrace it now, or get dragged along by the rising tide.  The truth is, DevOps has its roots in a paper going back to 1970, and has been fully enabled thanks to the convergence of agile software development, automation, and hardware virtualization.  There are many historical perspectives; this one is mine.  Let me inspire your upcoming career choices.**:
  * **David Bock**:
  * **david.bock@excella.com**:
  * **bokmann**:
