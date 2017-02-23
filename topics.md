@@ -59,3 +59,13 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
  * **Audience Skill Level**: All Skill Levels
  * **Requirements**: Projector
  * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
+ 
+* **Session Title**:  What would 30 year old me tell 20 year old me?
+ * **Event Type**: 50-min Lecture
+ * **Summary**:  2008 was a different time: We were going through an unprecedented economic depression, there were few jobs out there (even for Computer Science Majors), and T-Pain was the hottest new artist. I've learned a lot since then, not just about my taste in music, but also what it takes in order to be a successful IT Professional. In this talk, I'll share with you some of the lessons that I learned coming into the workplace, what are the most useful skills that you'll need as a burgeoning developer, and how to maximize the crazy times that you're bound to face in the next decade of your life.
+ * **Presenter Name(s)**: Patrick Leong
+ * **Presenter E-mail(s)**: patrick.leong@excella.com
+ * **Presenter GitHub Account**: https://github.com/patleong
+ * **Audience Skill Level**: All Skill Levels
+ * **Requirements**: Projector
+ * **Code of Conduct**: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct.
